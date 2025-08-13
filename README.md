@@ -14,8 +14,8 @@ gcc main.c -o morse
 ./morse
 ```
 Menu
-0 → Exit
-1 → Morse to Text
-2 → Text to Morse
-3 → Display Morse Table
-4 → Clear Screen
+- 0 → Exit
+- 1 → Morse to Text
+- 2 → Text to Morse
+- 3 → Display Morse Table
+- 4 → Clear Screen
